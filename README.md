@@ -16,7 +16,7 @@ EXERCÍCIO 3 -------------------------------------------------------------------
 Para o exercício 3, foram feitos dois programas distintos. Um utilizando listas encadeadas e outro utilizando vetores estáticos.
 
 
-EXERCÍCIO 3 (VETOR)
+EXERCÍCIO 3 (VETOR): 
  Primeiramente, é requerido ao usuário que ele determine o tamanho dos vetores que serão criados. O valor inserido por ele nesta etapa, determinará o tamanho tanto dos vetores A, quanto o B e o C também.
  Após a criação dos vetores, o usuário possui duas opções: inserir valores no vetor A ou começar a inserir valores no vetor B. Ao escolher a primeira opção, o programa pede para o usuário inserir qual valor deseja que seja adicionado ao vetor A. O programa retorna para a opção de inserir valor no vetor A ou ir para o vetor B, e assim se repete até o preenchimento total do vetor A.
 
@@ -25,7 +25,7 @@ EXERCÍCIO 3 (VETOR)
  Quando o usuário escolher avançar para o vetor C, ele não poderá mais alterar o vetor B. Ao selecionar a opção de ir para o vetor C, o merge entre o vetor A e B já é feito automaticamente, sendo o vetor C printado logo em seguida. Assim também é encerrado o programa.
 
 
-EXERCÍCIO 3 (LISTAS ENCADEADAS)
+EXERCÍCIO 3 (LISTAS ENCADEADAS): 
     O processo de funcionamento do programa utilizando listas encadeadas é muito similar ao de vetores. A única diferença na verdade é que não é requerido do usuário estipular o tamanho da lista logo de início, justamente por se tratarem de listas de tamanho dinâmico.
 
 
