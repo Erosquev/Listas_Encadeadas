@@ -34,7 +34,7 @@ public class Main {
                     }
 
                 }else if(opcao == 2){
-                    System.out.println("Agora vamos para o vetor B: \n: ");
+                    System.out.println("Agora vamos para o vetor B: \n ");
                 }
             }
             opcao = 0;
